@@ -1,0 +1,15 @@
+C:\CursoC\Depósito\bin\Debug\net6.0\Depósito.exe
+C:\CursoC\Depósito\bin\Debug\net6.0\Depósito.deps.json
+C:\CursoC\Depósito\bin\Debug\net6.0\Depósito.runtimeconfig.json
+C:\CursoC\Depósito\bin\Debug\net6.0\Depósito.dll
+C:\CursoC\Depósito\bin\Debug\net6.0\Depósito.pdb
+C:\CursoC\Depósito\obj\Debug\net6.0\Depósito.csproj.AssemblyReference.cache
+C:\CursoC\Depósito\obj\Debug\net6.0\Depósito.GeneratedMSBuildEditorConfig.editorconfig
+C:\CursoC\Depósito\obj\Debug\net6.0\Depósito.AssemblyInfoInputs.cache
+C:\CursoC\Depósito\obj\Debug\net6.0\Depósito.AssemblyInfo.cs
+C:\CursoC\Depósito\obj\Debug\net6.0\Depósito.csproj.CoreCompileInputs.cache
+C:\CursoC\Depósito\obj\Debug\net6.0\Depósito.dll
+C:\CursoC\Depósito\obj\Debug\net6.0\refint\Depósito.dll
+C:\CursoC\Depósito\obj\Debug\net6.0\Depósito.pdb
+C:\CursoC\Depósito\obj\Debug\net6.0\Depósito.genruntimeconfig.cache
+C:\CursoC\Depósito\obj\Debug\net6.0\ref\Depósito.dll
